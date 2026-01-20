@@ -74,3 +74,9 @@ The results demonstrate stable closed-loop behavior and effective trajectory tra
 - Control Systems Toolbox  
 
 ---
+
+## Author
+
+**Robert Anadu**  
+Aerospace Engineering (B.Eng)  
+Focus areas: Propulsion, Controls, Simulation, Systems Design
